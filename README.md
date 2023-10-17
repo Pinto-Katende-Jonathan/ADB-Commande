@@ -39,7 +39,7 @@ Une fois que le serveur a établi les connexions à tous les appareils, vous pou
 
 ### Manipulation
 - Branchez le téléphone avec le débogage activé
-- ```adb devices``` : Affiches appareils connectés
+- ```adb devices``` : Affiche appareils connectés
 
 ### ADB Sans Fil
 
