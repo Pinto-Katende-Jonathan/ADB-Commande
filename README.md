@@ -97,7 +97,7 @@ Pour vous connecter à votre appareil via la ligne de commande sans Android Stud
 
 1. Recherchez votre adresse IP, votre numéro de port et votre code d'association en sélectionnant Associer l'appareil avec un code d'association. Notez l'adresse IP, le numéro de port et le code d'association affichés sur l'appareil.
 
-1. Sur le terminal de votre station de travail, exécutez adb pair ipaddr:port. Utilisez l'adresse IP et le numéro de port ci-dessus.
+1. Sur le terminal de votre station de travail, exécutez ````adb pair ipaddr:port```. Utilisez l'adresse IP et le numéro de port ci-dessus.
 
 1. Lorsque vous y êtes invité, saisissez le code d'association, comme indiqué ci-dessous.
 
